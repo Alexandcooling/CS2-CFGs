@@ -9,7 +9,7 @@
                                                                d"     YD  
                                                                "Y88888P'  
 ```
-This is a repository of all of my cs2 configs built for movement and overall gameplay.
+This is a repository of all of my cs2 configs built for movement
 
 first attempt at making any config - kinda shit ngl
 thanks to @BurgerEater3 and @Tripp on https://discord.gg/834knqKzdN
