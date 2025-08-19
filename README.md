@@ -11,4 +11,5 @@
 ```
 This is a repository of all of my cs2 configs built for movement and overall gameplay.
 
-REV1 - first attempt at making any config - kinda shit ngl
+first attempt at making any config - kinda shit ngl
+thanks to @BurgerEater3 and @Tripp on https://discord.gg/834knqKzdN
