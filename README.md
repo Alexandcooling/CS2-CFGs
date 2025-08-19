@@ -9,7 +9,19 @@
                                                                d"     YD  
                                                                "Y88888P'  
 ```
-This is a repository of all of my cs2 configs built for movement and overall gameplay.
+This is a repository of all of my cs2 configs built for movement
 
 first attempt at making any config - kinda shit ngl
 thanks to @BurgerEater3 and @Tripp on https://discord.gg/834knqKzdN
+
+
+Currently there are two versions of this config:
+The first locks your cursor with MB5 and will input a jump, great for edgebuging,
+but can also work for chaining bhops together and getting a lot of speed, although
+this will get you kicked from regular lobbies for input automation, so keep that in
+mind.
+The second allows you to lock your cursor but you use scroll wheel; 
+you wont get kicked for input automation although its much harder to pull off long chains.
+
+This was found by @BurgerEater3 i just bashed it into neat lil config i made and slapped on some neat features.
+theres also a warmup config you can use for practice, optional though.
