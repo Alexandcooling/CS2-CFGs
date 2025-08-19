@@ -25,3 +25,6 @@ you wont get kicked for input automation although its much harder to pull off lo
 
 This was found by @BurgerEater3 i just bashed it into neat lil config i made and slapped on some neat features.
 theres also a warmup config you can use for practice, optional though.
+
+TO BE CLEAR:
+This config may get you an input automation kick, but does not require any exterior software. these are all in-game settings.
